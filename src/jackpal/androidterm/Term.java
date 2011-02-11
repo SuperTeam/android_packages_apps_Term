@@ -133,7 +133,7 @@ public class Term extends Activity {
     private int mCursorStyle = 0;
     private int mCursorBlink = 0;
     private int mFontSize = 9;
-    private int mColorId = 2;
+    private int mColorId = 1;
     private int mControlKeyId = 5; // Default to Volume Down
     private int mUseCookedIME = 0;
 
