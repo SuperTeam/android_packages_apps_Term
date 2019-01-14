@@ -1,7 +1,7 @@
-bin/
-gen/
-libs/
-obj/
-.classpath
-.project
-.settings/
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+*.iml
